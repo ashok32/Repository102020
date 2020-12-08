@@ -1,4 +1,4 @@
-this is my first text document
+this is my first text document, changes in the same line.
 
 Editing file in remote repository 
 
